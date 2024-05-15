@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "ingredient": {
+    "item": "create:zinc_ore"
+  },
+  "result": {
+    "item": "create:crushed_raw_zinc",
+    "count": 2
+  },
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false
+}

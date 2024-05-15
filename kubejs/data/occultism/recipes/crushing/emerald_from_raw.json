@@ -1,0 +1,12 @@
+{
+  "type": "occultism:crushing",
+  "ingredient": {
+    "tag": "forge:ores/emerald"
+  },
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 2
+  },
+  "crushing_time": 200,
+  "ignore_crushing_multiplier": false
+}
